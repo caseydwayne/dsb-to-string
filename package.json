@@ -1,0 +1,12 @@
+{
+  "name": "dsb-to-string",
+  "version": "1.0.0",
+  "description": "native Object.toString method",
+  "main": "index.js",
+  "author": "Casey Dwayne <opensource@caseydwayne.com> (http://caseydwayne.com)",
+  "devDependencies": {
+    "dsb-debug-mini": "^1.0.0"
+  },
+  "license": "NONE",
+  "private": true
+}
